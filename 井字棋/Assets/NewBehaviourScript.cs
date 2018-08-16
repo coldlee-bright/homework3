@@ -220,7 +220,7 @@ public class NewBehaviourScript : MonoBehaviour
     }
     void output()
     {
-        string result1 = @"D:\unity\Documents\井字棋\对战结果.txt";
+        string result1 = @"D:\对战结果.txt";
         FileStream fs = new FileStream(result1, FileMode.Append,FileAccess.Write,FileShare.Write);
         StreamWriter wr = null;
         wr = new StreamWriter(fs);
@@ -358,7 +358,7 @@ public class NewBehaviourScript : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {/
+    {
 
     }
 }

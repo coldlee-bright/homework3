@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{E7F4E4DA-A2AF-D74B-E3B1-F53EA9F02743}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "井字棋", "井字棋.csproj", "{CF0D8FD4-0D10-7436-F810-D5921FD0FA07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E7F4E4DA-A2AF-D74B-E3B1-F53EA9F02743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E7F4E4DA-A2AF-D74B-E3B1-F53EA9F02743}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E7F4E4DA-A2AF-D74B-E3B1-F53EA9F02743}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E7F4E4DA-A2AF-D74B-E3B1-F53EA9F02743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF0D8FD4-0D10-7436-F810-D5921FD0FA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0D8FD4-0D10-7436-F810-D5921FD0FA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0D8FD4-0D10-7436-F810-D5921FD0FA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0D8FD4-0D10-7436-F810-D5921FD0FA07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
